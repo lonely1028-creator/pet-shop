@@ -10,9 +10,9 @@ const PetStoreWeb = () => {
   const products = [
     { 
       id: 1, 
-      name: "頂級無穀犬糧 2kg", 
-      price: 1280, 
-      image: "/api/placeholder/400/300", 
+      name: "CIAO 4入肉泥", 
+      price: 38, 
+      image: "https://down-tw.img.susercontent.com/file/tw-11134207-7r98z-lyal6n4kz0fodf.webp", 
       tag: "熱銷" 
     },
     { 
@@ -44,7 +44,7 @@ const PetStoreWeb = () => {
       <div className="bg-white sticky top-0 z-50 shadow-sm px-4 py-3 flex justify-between items-center">
         <div className="flex items-center gap-2">
           <Menu className="text-gray-600" />
-          <h1 className="font-bold text-xl text-indigo-600">毛孩星球</h1>
+          <h1 className="font-bold text-xl text-indigo-600">《小搗蛋鬼の王國》</h1>
         </div>
         <div className="relative">
           <ShoppingBag className="text-gray-600" />
