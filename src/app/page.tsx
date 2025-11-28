@@ -47,7 +47,7 @@ const PetStoreWeb = () => {
   {/* eslint-disable-next-line @next/next/no-img-element */}
   <img src="https://drive.google.com/file/d/1HY9HDPHAuGYieDGuMylgJC5LtvejWnAG/view?usp=drive_link" alt="Logo" className="h-8 w-auto" /> 
   
-  <h1 className="font-bold text-xl text-indigo-600">毛孩星球</h1>
+  <h1 className="font-bold text-xl text-indigo-600">小搗蛋鬼の王國</h1>
 </div>
         <div className="relative">
           <ShoppingBag className="text-gray-600" />
